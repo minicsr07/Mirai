@@ -1,6 +1,6 @@
 import streamlit as st
-st.title("Echo Chamber 9000")
-st.write("Welcome to the Echo Chamber 9000! Type something below and see it echoed back to you.")
+st.title("Echo Chamber 007")
+st.write("Welcome to the Echo Chamber 007! Type something below and see it echoed back to you.")
 user_name = st.text_input("Your Name:")
 user_message = st.text_input("Message:")
 
